@@ -10,4 +10,4 @@ you need to copy the git URL to the gitBatchDownload.sh now,this is bad idea.
 gitBatchDownload.sh will use git to  download it ,later I will rewrite this script.
 
 
-git test branch
+git test branch bbbbbbbbbbbbbbbbbbbbbbbbbb
