@@ -9,3 +9,5 @@ getHtmlString.py (tested on pytho2.7) to get the git repo URL on http://android.
 you need to copy the git URL to the gitBatchDownload.sh now,this is bad idea.
 gitBatchDownload.sh will use git to  download it ,later I will rewrite this script.
 
+
+git test branch
